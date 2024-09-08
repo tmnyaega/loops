@@ -8,3 +8,4 @@
 Key points:
 A while loop is good for cases where you don't know beforehand how many times the loop should run.
 It is essential to ensure the loop has a condition to eventually stop (or break out), otherwise, you'll end up with an infinite loop."""
+# I am adding more files on applications
